@@ -1,0 +1,74 @@
+{
+  "tests": [
+    {
+      "name": "new",
+      "setup": "",
+      "run": "cargo test new",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "size",
+      "setup": "",
+      "run": "cargo test size",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "indexing",
+      "setup": "",
+      "run": "cargo test indexing",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "max",
+      "setup": "",
+      "run": "cargo test max",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "transpose",
+      "setup": "",
+      "run": "cargo test transpose",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "add",
+      "setup": "",
+      "run": "cargo test add",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "mul",
+      "setup": "",
+      "run": "cargo test mul",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 20
+    }
+  ]
+}
